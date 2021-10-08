@@ -1,0 +1,3 @@
+Hello there 
+I'm ryan this is my first proj by using git and git hub
+chnages made
